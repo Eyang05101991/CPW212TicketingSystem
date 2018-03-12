@@ -9,7 +9,6 @@ namespace CPW212TicketingSystem
 {
     static class CommentDB
     {
-
         private static TicketingSystemDBContext db = new TicketingSystemDBContext();
 
         // Creates a comment and adds it to the database.
